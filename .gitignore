@@ -1,0 +1,10 @@
+# Maven build output
+target/
+
+# Generated when the app stores a message while running
+storedMessages.json
+
+# IDE files
+nbproject/private/
+.idea/
+*.iml
